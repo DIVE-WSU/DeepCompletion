@@ -58,7 +58,5 @@ Examples
 
 
 
-Additional Information
-======================
-For any question, please contact Chih-Jen Lin <cjlin@csie.ntu.edu.tw>.
+
 
