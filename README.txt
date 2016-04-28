@@ -1,6 +1,4 @@
-Combining multi-modality brain data for disease diagnosis commonly leads to improved performance. A challenge in using 
-multimodality data is that the data are commonly incomplete; namely, some modality might be missing for some subjects. 
-This tool is used for completing and integrating multi-modality neuroimaging data. This tool is intended to be used internally 
+Combining multi-modality brain data for disease diagnosis commonly leads to improved performance. A challenge in using multimodality data is that the data are commonly incomplete; namely, some modality might be missing for some subjects. This tool is used for completing and integrating multi-modality neuroimaging data. This tool is intended to be used internally 
 by the DIVE group. However, anyone is welcomed to use this code without notifying us after citing the following paper:
 
 @incollection{li2014deep,
